@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625131265 source:d:\college data\ug_daiict\semester 2\sc 205 - s21\final project\huffman\minheap_m.cpp
+	"MinHeap.h"
+
+1625131253 d:\college data\ug_daiict\semester 2\sc 205 - s21\final project\huffman\minheap.h
+	<iostream>
+
+1625148614 source:d:\college data\ug_daiict\semester 2\sc 205 - s21\final project\huffman\main.cpp
+	"MinHeap.h"
+	<bits/stdc++.h>
+
